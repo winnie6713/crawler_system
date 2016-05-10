@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler
+END
+CrawlerWork$DownUrlInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/CrawlerWork$DownUrlInfo.class
+END
+ExtractByKeyWords.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/ExtractByKeyWords.class
+END
+CrawlerTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/CrawlerTask.class
+END
+CrawlerWork.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/CrawlerWork.class
+END
+CrawlerMain.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/CrawlerMain.class
+END
+CrawlerUtiles.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/CrawlerUtiles.class
+END
+CrawlerData.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/CrawlerData.class
+END
+CrawlerJob.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/CrawlerJob.class
+END

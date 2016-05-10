@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database
+END
+WebSitSearchInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/WebSitSearchInfo.java
+END
+DistrictInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/DistrictInfo.java
+END
+PageLocalInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/PageLocalInfo.java
+END
+PageFeatureInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/PageFeatureInfo.java
+END
+LocalInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/LocalInfo.java
+END
+CrawlerStatInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/CrawlerStatInfo.java
+END
+SemanticDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/SemanticDB.java
+END
+LocalInfoDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/LocalInfoDB.java
+END
+PhonePostCodeDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/PhonePostCodeDB.java
+END
+ExtractorDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/ExtractorDB.java
+END
+PageFeaturesDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/PageFeaturesDB.java
+END
+CrawlerDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/CrawlerDatabase.java
+END
+PhonePostCodeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/PhonePostCodeInfo.java
+END
+newXMLDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/newXMLDocument.xml
+END
+ExtractFieldRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/ExtractFieldRules.java
+END
+DistrictDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/DistrictDB.java
+END
+PageFeatureField.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/PageFeatureField.java
+END
+WebSiteSearchDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/crawler/database/WebSiteSearchDB.java
+END

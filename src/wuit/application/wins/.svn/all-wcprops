@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins
+END
+JTabbedPaneTitle.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/JTabbedPaneTitle.java
+END
+AddressKeys0.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/AddressKeys0.java
+END
+AddressWords.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/AddressWords.java
+END
+PageFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/PageFilters.java
+END
+AppMain.form
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/AppMain.form
+END
+CrawlerWorks.form
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/CrawlerWorks.form
+END
+MainApp.form
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/MainApp.form
+END
+PageHtmlClear.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/PageHtmlClear.java
+END
+PageClearConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/PageClearConfig.java
+END
+CrawlersMain.form
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/CrawlersMain.form
+END
+WebFeatures.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/WebFeatures.java
+END
+WebSitCrawler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/WebSitCrawler.java
+END
+WebSiteCrawlerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/WebSiteCrawlerManager.java
+END
+PageItems.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/PageItems.java
+END
+LocalInfoManage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/LocalInfoManage.java
+END
+LocalInfoLabelManage.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/LocalInfoLabelManage.java
+END
+MainLocalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/MainLocalService.java
+END
+PhonePostCodeManage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/PhonePostCodeManage.java
+END
+PageCrawlerKeywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/PageCrawlerKeywords.java
+END
+AppMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/AppMain.java
+END
+CrawlerWorks.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/CrawlerWorks.java
+END
+MainApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/MainApp.java
+END
+AddressWords.form
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/AddressWords.form
+END
+CrawlersMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/CrawlersMain.java
+END
+PageFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/PageFeature.java
+END
+PageClearConfig.form
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/PageClearConfig.form
+END
+CrawlerPageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/CrawlerPageTest.java
+END
+PageCrawler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/PageCrawler.java
+END
+DistrictManage.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/DistrictManage.java
+END
+WebFeatures.form
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/application/wins/WebFeatures.form
+END

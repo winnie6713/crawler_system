@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address
+END
+AddressDataBase$AddressNameCode.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/AddressDataBase$AddressNameCode.class
+END
+TextDB$TextPostCodeInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/TextDB$TextPostCodeInfo.class
+END
+MySQLDBAddress.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/MySQLDBAddress.class
+END
+AddressWord.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/AddressWord.class
+END
+AddressExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/AddressExtractor.class
+END
+TextDB$Database.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/TextDB$Database.class
+END
+AddressDataBase$RoadCodeAddress.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/AddressDataBase$RoadCodeAddress.class
+END
+AddressDataBase$PostCodeAddress.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/AddressDataBase$PostCodeAddress.class
+END
+TextDB$TextDistrictInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/TextDB$TextDistrictInfo.class
+END
+ReferenceKeywords.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/ReferenceKeywords.class
+END
+AddressExtractDirect0$VerifyDataInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/AddressExtractDirect0$VerifyDataInfo.class
+END
+TextDB.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/TextDB.class
+END
+AddressExtractDirect0.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/AddressExtractDirect0.class
+END
+AddressDataBase$AddressNameCodeIndex$ParentNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/AddressDataBase$AddressNameCodeIndex$ParentNode.class
+END
+TransAddress.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/TransAddress.class
+END
+EvalutionValue.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/EvalutionValue.class
+END
+AbsoluteKeywords.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/AbsoluteKeywords.class
+END
+ServiceAddress.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/ServiceAddress.class
+END
+Evaluation.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/Evaluation.class
+END
+AddressDataBase$AddressNameCodeIndex.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/AddressDataBase$AddressNameCodeIndex.class
+END
+AddressDataBase$PhoneCodeAddress.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/AddressDataBase$PhoneCodeAddress.class
+END
+AddressDataBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/address/AddressDataBase.class
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config
+END
+composite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config/composite.xml
+END
+sysConfig.ini
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config/sysConfig.ini
+END
+dbConnection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config/dbConnection.xml
+END
+localInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config/localInfo.xml
+END
+dataExtractorParam
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config/dataExtractorParam
+END
+addressKeyWords.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config/addressKeyWords.xml
+END
+compositeInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config/compositeInfo.xml
+END

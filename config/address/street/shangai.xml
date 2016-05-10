@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+   <fields>
+         <field key="中国|上海|徐家汇|线|嘉定|金山|崇明岛|崇明|与|徐泾|徐汇|浦东|青浦|松江|南汇|卢湾|奉贤|外高桥"></field>
+         <field key="\\d{1,}|[0-9a-z]+?|[^:]+?:|）|[^对面]+?对面"></field>
+         <field key="[近郊_�\\-]|[^村]+?村|[^公里]+?公里|\ufffd|[^镇站厅城面港内]+?[镇站厅城面港内]"></field>
+   </fields>
+</root>

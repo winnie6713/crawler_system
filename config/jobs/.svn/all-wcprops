@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config/jobs
+END
+extractFields.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config/jobs/extractFields.xml
+END
+qunguang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config/jobs/qunguang.xml
+END
+defaultExtractFields.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config/jobs/defaultExtractFields.xml
+END
+WorkConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config/jobs/WorkConfig.xml
+END
+clearHtml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config/jobs/clearHtml.xml
+END
+filterUrls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config/jobs/filterUrls.xml
+END
+extractItems.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/config/jobs/extractItems.xml
+END

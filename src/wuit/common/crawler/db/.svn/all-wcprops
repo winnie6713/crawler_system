@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/db
+END
+DbConnect.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/db/DbConnect.java
+END
+PostInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/db/PostInfo.java
+END
+KeyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/db/KeyValue.java
+END
+DbPostCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/db/DbPostCode.java
+END
+KeyValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/db/KeyValues.java
+END
+KeyValueSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/db/KeyValueSort.java
+END

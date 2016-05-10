@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+    <fields>
+        <field order = "0" key="0">163.com/</field>
+        <field order = "0" key="0">51job.com</field>
+        <field order = "0" key="0">baike.baidu.com</field>
+        <field order = "0" key="0">cnhubei.com/</field>
+        <field order = "0" key="0">chinasspp.com</field>
+        <field order = "0" key="0">deyi.com</field>
+        <field order = "0" key="0">enet.com.cn</field>
+        <field order = "0" key="0">hao123.com/</field>        
+        <field order = "0" key="0">https://</field>
+        <field order = "0" key="0">phoenix.zhtml</field>
+        <field order = "0" key="0">iqiyi.com/</field> 
+        <field order = "0" key="0">idohome.com</field>
+        <field order = "0" key="0">jumei.com/</field>
+        <field order = "0" key="0">lefeng.com/</field>
+        <field order = "0" key="0">mapbar.com</field>
+        <field order = "0" key="0">map.baidu.com</field>
+        <field order = "0" key="0">people.com.cn/</field>
+        <field order = "0" key="0">qq.com/</field>
+        <field order = "0" key="0">renhe.cn</field>
+        <field order = "0" key="0">service.baidu.com</field>
+        <field order = "0" key="0">sina.com.cn/</field>
+        <field order = "0" key="0">tudou.com/</field>
+        <field order = "0" key="0">tieba.baidu.com</field>
+        <field order = "0" key="0">v.baidu.com</field>
+        <field order = "0" key="0">winshang.com</field>
+        <field order = "0" key="0">vancl.com/</field>
+        <field order = "0" key="0">youku.com/</field>
+        <field order = "0" key="0">yingxiao.baidu.com</field>
+    </fields>
+</root>

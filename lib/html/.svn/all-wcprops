@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/html
+END
+htmllexer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/html/htmllexer.jar
+END
+commons-codec-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/html/commons-codec-1.6.jar
+END
+fluent-hc-4.2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/html/fluent-hc-4.2.5.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/html/commons-logging-1.1.1.jar
+END
+httpcore-4.2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/html/httpcore-4.2.4.jar
+END
+httpmime-4.2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/html/httpmime-4.2.5.jar
+END
+htmlparser.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/html/htmlparser.jar
+END
+httpclient-4.2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/html/httpclient-4.2.5.jar
+END
+httpclient-cache-4.2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/html/httpclient-cache-4.2.5.jar
+END

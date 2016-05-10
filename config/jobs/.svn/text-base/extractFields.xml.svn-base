@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <extract id="0" key="so.com/s|17u.cn/youlun/tours|baidu.com/s|so.360.cn/s|c.360webcache.com/c|wenda.so.com/search|.hao123.com|zhidao.baidu.com|wenda.so.com|e.tf.360.cn|hotel.qunar.com">
+        <fields>
+            <field key ="name">[^、电话]+?(?=地址)</field>
+            <field key ="address">(?&lt;=地址:)[^、电话]+?(?=电话)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>
+    <extract id="10000" key = "17u.cn/Search">
+        <fields>
+            <field key ="name">[^、]+?、[^、]+?(?=、、周边)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="time_service">(?&lt;=营业时间:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>
+    <extract id="10250" key = "tuan.360.cn">
+        <fields>
+            <field key ="name">(?&lt;=商家:)[^、]+?(?=、)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>    
+    <extract id="10010" key = "5yi.com/">
+        <fields>
+            <field key ="name">(?&lt;=\&gt;、)[^、]+?(?=、)</field><!--(?<=\\>、)[^>]+?([^、]+?)(?=、地址) -->
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key ="label">(?&lt;=标签:)[^、]+?(?=、)</field>         
+        </fields>
+    </extract>    
+    <extract id="10020" key = "58.com/shangpu">
+        <fields>
+            <field key ="name">(?&lt;=、)[^、]+?(?=、浏览)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key = "time_service">(?&lt;=营业时间)[^、]+?(?=、)</field>  
+        </fields>
+    </extract>
+          
+    <extract id="10030" key = "store.tuan800.com">
+        <fields>
+            <field key ="name">(?&lt;=、)[^、]+?(?=、申请商家认证)|(?&lt;=、)[^、掌柜]+?(?=、地址:)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="time_service">(?&lt;=营业时间:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>    
+    <extract id="10040" key = "9tour.cn/place">
+        <fields>
+            <field key ="name">(?&lt;=查看更多图片、)[^、]+?(?=、区域:)</field>
+            <field key ="address">(?&lt;=地址:、)[^、]+?(?=、)</field>
+            <field key ="label">(?&lt;=区域、)[^:]+?(?=、地图)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>      
+    <extract id="10050" key="shopping.ppsj.com.cn">
+        <fields>
+            <field key ="name">(?&lt;=简介:、)[^、，]+?(?=、城市)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、经营品牌)</field>
+            <field key ="label">(?&lt;=城市:)[^、]+?(?=、)</field>
+            <field key ="abstract">(?&lt;=经营品牌、)[^、]+?、[^、]+?(?=、)</field>
+        </fields>
+    </extract>    
+    <extract id="10051" key="pp.ppsj.com.cn">
+        <fields>
+            <field key ="name">[^、]+?(?=、地址)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>    
+
+    <extract id="10060" key = "haodou.com/shop">
+        <fields>
+            <field key ="name">[^、]+?(?=、电话)|([^、]+?、){2}[^、]+?(?=、详细地址)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)|(?&lt;=详细地址:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=联系电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>    
+    <extract id="10070" key = "55tuan.com/biz">
+        <fields>
+            <field key ="name">[^、]+?(?=、营业时间:)</field>
+            <field key ="address">(?&lt;=地址:、)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:、)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key = "time_service">(?&lt;=营业时间:)[^、]+?(?=、)</field>  
+        </fields>
+    </extract>
+    <extract id="10071" key = "55tuan.com/goods">
+        <fields>
+            <field key ="name" order="1">[^、]+?(?=、地址:)</field>
+            <field key ="address" order="2">(?&lt;=地址:、)[^、]+?(?=、)</field>
+            <field key ="phone" order="3">(?&lt;=电话:、)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key = "time_service" order="4">(?&lt;=营业时间:)[^、]+?(?=、)</field>  
+        </fields>
+    </extract>
+    <extract id="10250" key = "film.spider.com.cn/sh-cinema/">
+        <fields>
+            <field key ="name">[^、]+?(?=、  评分)</field>
+            <field key ="address">(?&lt;=详细地址:)[^、]+?、[^、]+?(?=、)</field>
+        </fields>
+    </extract>     
+    <extract id="10251" key = "film.spider.com.cn">
+        <fields>
+            <field key ="name">[^、]+?(?=、地址)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>  
+    <extract id="10080" key = "hao224.com/">
+        <fields>
+            <field key ="name">(?&lt;=商家:)[^、暂无]+?(?=、)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key = "time_service">(?&lt;=营业时间)[^、]+?(?=、)</field>  
+        </fields>
+    </extract>
+    <extract id="10090" key = "nuomi.com/deal">
+        <fields>
+            <field key ="name">[^、]+?(?=、地址)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key = "time_service">(?&lt;=营业时间)[^、]+?(?=、)</field>  
+        </fields>
+    </extract>
+    <extract id="10100" key = "www.aibang.com/\?area|zizhucan">
+        <fields>
+            <field key ="name" order="1">(?&lt;=、)[^、]+?(?=、地址:)</field>
+            <field key ="address" order="2">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone" order="3">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}|\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key ="label" order="4">(?&lt;=标签:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>
+    <extract id="10101" key = "www.aibang.com/shanghai/">
+        <fields>
+            <field key ="name" order="1">(?&lt;=、)[^、]+?(?=、地址:)</field>
+            <field key ="address" order="2">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone" order="3">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}|\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key ="label" order="4">(?&lt;=标签:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>    
+   <extract id="10102" key = "bus.aibang.com/">
+        <fields>
+            <field key ="name" order="1">[^、]+?(?=、电话)</field>
+            <field key ="address" order="2">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone" order="3">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key ="label" order="4">(?&lt;=标签:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>     
+   <extract id="10103" key = "tuan.aibang.com">
+        <fields>
+            <field key ="name"  order="1" >([^、]+?、){2}(?=地址:)</field>
+            <field key ="address"  order="2" >(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone" order="3" >\d{8,11}|(?&lt;=电话:)\d{3,4}\-\d{8}|(?&lt;=电话:)\d{9,11}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>     
+    <extract id="10104" key = "www.aibang.com/bizsearch/">
+        <fields>
+            <field key ="name" order="1">(?&lt;=、)[^、]+?、[^、]+?(?=、地址)</field>
+            <field key ="address" order="2">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone" order="3">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key ="label" order="4">(?&lt;=标签:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>
+    <extract id="10105" key = "aibang.com/meishi/">
+        <fields>
+            <field key ="name" order="1">(?&lt;=、)[^、]+?、[^、]+?(?=、地址)</field>
+            <field key ="label" order="2">(?&lt;=、)[^、]+?(?=、地址)</field>
+            <field key ="address" order="2">(?&lt;=地址:、)[^、]+?(?=、)</field>
+            <field key ="phone" order="3">(?&lt;=电话:、)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>    
+    <extract id="10105" key = "hotel.city8.com">
+        <fields>
+            <field key ="name">[^、]+?(?=、区域)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key ="label">(?&lt;=区域:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>
+    <extract id="10110" key = "city8.com/city8-ps/">
+        <fields>
+            <field key ="name">[^、]+?(?=、简介)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?、(?=电话)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key ="label">(?&lt;=简介:)[^、]+?(?=地址)</field>
+        </fields>
+    </extract>         
+
+    <extract id="10111" key = "city8.com/.+?/poi|city8.com/poi">
+        <fields>
+            <field key ="name">[^、电话:]+?(?=、地址)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、电话)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>  
+    
+    <extract id="10120" key = "dianping.com/search/">
+        <fields>
+            <field key ="name">[^、]*?[、分店|.*]*?(?=、地址)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone">\d{3,4}\-\d{8,10}|\d{8,13}|\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>
+          
+    <extract id="10130" key = "ddmap.com/21/city/">
+        <fields>
+            <field key ="name">[^、电话:]+?(?=、地址)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、电话)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>
+    <extract id="10131" key = "ddmap.com/map/">
+        <fields>
+            <field key ="name">[^、电话:]+?(?=、地址)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=查看地图、)</field>
+            <field key ="label">(?&lt;=标签:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>
+    <!-- http://www.ddmap.com/mstmap50007/g_search.jsp?mapno=21&keyname=%B4%A2%B4%E6&g_addr=&g_env_cx=&g_env_cy=&g_scope=1000&porder=1&curpage=1&services=%C5%AE%D0%D4%D7%EE%B0%AE&model=mlist&rzsh=1&yh=0&yy=0&pz=0  -->
+    <extract id="10132" key = "ddmap.com/mstmap50007/g_search.jsp?">
+        <fields>
+            <field key ="name">[^、]+?(?=、地址)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=查看地图、)</field>
+            <field key ="label">(?&lt;=标签:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>
+    <extract id="10132" key = "ddmap.com/755/city">
+        <fields>
+            <field key ="name">[^、]+?(?=、地址)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>
+    <extract id="10132" key = "www.ddmap.com/21/listpv/">
+        <fields>
+            <field key ="name">(?&lt;=、)[^、]+?(?=([^、]+?、){1}地址)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="label">(?&lt;=标签:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>           
+    <extract id="10140" key = "edushi.com/hy">
+        <fields>
+            <field key ="name">[^、]+?(?=、登记时间:)</field>
+            <field key ="address">(?&lt;=地址:、)[^、]+?(?=、)</field>
+            <field key ="address">(?&lt;=邮编:)\d{6}</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>
+    <extract id="10150" key = "go.qq.com/hotel/list/|go.qq.com/static/hotel/detail">
+        <fields>
+            <field key ="name">([^、\d]*?、){0,1}[^、]+?(?=、区域:)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="Abstract">(?&lt;=区域:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>    
+    <extract id="10160" key = "hotel.qunar.com/hbmap">
+        <fields>
+            <field key ="name">[^、]+?(?=、电话)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>
+    <extract id="10170" key = "huitongke.com/hotel">
+        <fields>
+            <field key ="name">(?&lt;=\&gt;、)[^&gt;]+?([^、]+?)(?=、地址)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key ="label">(?&lt;=标签:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>       
+    <extract id="10180" key = "jifencity.com/">
+        <fields>
+            <field key ="name">(?&lt;=、)[^、]+?(?=、地址)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key ="label">(?&lt;=标签:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>
+    <extract id="10190" key = "lashou.com/deal">
+        <fields>
+            <field key ="name">(?&lt;=、)[^、]+?(?=、查看完整地图)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="time_service">(?&lt;=营业时间:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>
+    <extract id="10200" key = "maigoo.com/shop/">
+        <fields>
+            <field key ="name">(?&lt;=、)[^、]+?(?=、电话:)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>
+    <extract id="10210" key = "map.sogou.com/poi/">
+        <fields>
+            <field key ="name">(?&lt;=、)[^、]+?(?=、电话:)</field>
+            <field key ="address">(?&lt;=地址:、)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:、)\d{3,4}\-\d{8,10}|(?&lt;=电话:、)\d{8,13}|(?&lt;=电话:、)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>
+    <extract id="10211" key = "map.sogou.com/index/">
+        <fields>
+            <field key ="name">(?&lt;=、)[^、]+?(?=、地址:)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>     
+    <extract id="10220" key = "meituan.com/movie/">
+        <fields>
+            <field key ="name">([^、]+?、){2}[^、]+?(?=、地址)</field>
+            <field key ="address">(?&lt;=地址:、)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>    
+    <extract id="10230" key = "quna.com/search">
+        <fields>
+            <field key ="name">(?&lt;=、)[^、]+?(?=、电话)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>    
+    <extract id="10240" key = "zentuan.com/tuangou">
+        <fields>
+            <field key ="name">(?&lt;=商家名称:)[^、]+?(?=、)</field>
+            <field key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone">(?&lt;=联系电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>
+</root>

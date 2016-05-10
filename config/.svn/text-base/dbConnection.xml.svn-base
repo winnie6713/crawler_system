@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+   <host>localhost</host>
+   <port>3306</port>
+   <dbName>net_search</dbName>
+   <user>root</user>
+   <password>zaq12wsx</password>
+</root>

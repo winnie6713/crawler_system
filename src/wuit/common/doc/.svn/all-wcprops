@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/doc
+END
+JsonDateValueProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/doc/JsonDateValueProcessor.java
+END
+FileIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/doc/FileIO.java
+END
+JsonUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/doc/JsonUtils.java
+END
+ParseUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/doc/ParseUtils.java
+END
+ParseXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/doc/ParseXml.java
+END
+XmlParseUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/doc/XmlParseUtils.java
+END

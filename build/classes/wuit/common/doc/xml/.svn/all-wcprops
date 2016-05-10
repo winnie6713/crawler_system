@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/doc/xml
+END
+ParseWorkConfigXml$WorkMode.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/doc/xml/ParseWorkConfigXml$WorkMode.class
+END
+AddressKeys.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/doc/xml/AddressKeys.class
+END
+ParseKeyValueXml.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/doc/xml/ParseKeyValueXml.class
+END
+ParseWorkConfigXml.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/doc/xml/ParseWorkConfigXml.class
+END
+DBConnection.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/doc/xml/DBConnection.class
+END
+ParseHTMLConfigXml.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/doc/xml/ParseHTMLConfigXml.class
+END
+ParseWorkConfigXml$UrlInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/doc/xml/ParseWorkConfigXml$UrlInfo.class
+END
+ParseWorkConfigXml$WorkExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/doc/xml/ParseWorkConfigXml$WorkExtractor.class
+END
+ParseWorkConfigXml$WorkInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/doc/xml/ParseWorkConfigXml$WorkInfo.class
+END
+DSCompositeMapXml.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/doc/xml/DSCompositeMapXml.class
+END
+ParseWorkConfigXml$WorkPath.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/doc/xml/ParseWorkConfigXml$WorkPath.class
+END

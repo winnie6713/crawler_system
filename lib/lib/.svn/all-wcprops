@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/lib
+END
+commons-httpclient-3.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/lib/commons-httpclient-3.0.1.jar
+END
+commons-codec-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/lib/commons-codec-1.4.jar
+END
+httpmime-4.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/lib/httpmime-4.1.2.jar
+END
+httpcore-4.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/lib/httpcore-4.1.2.jar
+END
+commons-lang.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/lib/commons-lang.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/lib/commons-logging-1.1.1.jar
+END
+httpclient-4.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/lib/httpclient-4.1.2.jar
+END
+commons-beanutils.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/lib/commons-beanutils.jar
+END
+httpclient-cache-4.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/lib/httpclient-cache-4.1.2.jar
+END
+commons-io-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/lib/lib/commons-io-1.4.jar
+END

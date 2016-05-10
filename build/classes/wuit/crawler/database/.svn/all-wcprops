@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database
+END
+LocalInfoDB.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/LocalInfoDB.class
+END
+PhonePostCodeDB.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/PhonePostCodeDB.class
+END
+PageFeaturesDB.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/PageFeaturesDB.class
+END
+ExtractorDB.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/ExtractorDB.class
+END
+CrawlerDatabase.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/CrawlerDatabase.class
+END
+PhonePostCodeInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/PhonePostCodeInfo.class
+END
+ExtractFieldRules.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/ExtractFieldRules.class
+END
+DistrictDB.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/DistrictDB.class
+END
+PageFeatureField.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/PageFeatureField.class
+END
+WebSiteSearchDB.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/WebSiteSearchDB.class
+END
+WebSitSearchInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/WebSitSearchInfo.class
+END
+DistrictInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/DistrictInfo.class
+END
+PageLocalInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/PageLocalInfo.class
+END
+PageFeatureInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/PageFeatureInfo.class
+END
+newXMLDocument.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/newXMLDocument.xml
+END
+LocalInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/LocalInfo.class
+END
+CrawlerStatInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/CrawlerStatInfo.class
+END
+SemanticDB.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/crawler/database/SemanticDB.class
+END

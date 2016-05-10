@@ -1,0 +1,1337 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins
+END
+MainApp$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/MainApp$2.class
+END
+PageCrawlerKeywords$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$4.class
+END
+CrawlersMain$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlersMain$1.class
+END
+PageCrawlerKeywords$MainCrawler.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$MainCrawler.class
+END
+WebSitCrawler$BuildingBrands$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSitCrawler$BuildingBrands$1.class
+END
+WebSiteCrawlerManager$BuildingBrands$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSiteCrawlerManager$BuildingBrands$1.class
+END
+LocalInfoLabelManage.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoLabelManage.class
+END
+PageCrawlerKeywords$8.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$8.class
+END
+CrawlersMain$MainCrawler.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlersMain$MainCrawler.class
+END
+CrawlersMain$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlersMain$5.class
+END
+PageCrawler$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$2.class
+END
+CrawlerWorks.form
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlerWorks.form
+END
+CrawlersMain$9.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlersMain$9.class
+END
+DistrictManage$SubTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/DistrictManage$SubTable.class
+END
+PageCrawler$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$6.class
+END
+WebSitCrawler$SubTable$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSitCrawler$SubTable$2.class
+END
+WebSiteCrawlerManager$SubTable$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSiteCrawlerManager$SubTable$2.class
+END
+LocalInfoManage$SubTable$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoManage$SubTable$1.class
+END
+AddressWords$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressWords$3.class
+END
+LocalInfoLabelManage$SubTable$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoLabelManage$SubTable$4.class
+END
+PageHtmlClear$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageHtmlClear$1.class
+END
+LocalInfoManage$SubTable$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoManage$SubTable$5.class
+END
+PhonePostCodeManage$SubTable$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PhonePostCodeManage$SubTable$3.class
+END
+PageClearConfig$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageClearConfig$4.class
+END
+AddressKeys0.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressKeys0.class
+END
+PageHtmlClear$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageHtmlClear$5.class
+END
+WebFeatures$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebFeatures$3.class
+END
+PageFilters.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageFilters.class
+END
+DistrictManage$MainTable$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/DistrictManage$MainTable$2.class
+END
+PageItems$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageItems$4.class
+END
+DistrictManage$MainTable$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/DistrictManage$MainTable$6.class
+END
+AppMain$DispState.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AppMain$DispState.class
+END
+CrawlerWorks$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlerWorks$2.class
+END
+DistrictManage$SubTable$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/DistrictManage$SubTable$4.class
+END
+AppMain$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AppMain$4.class
+END
+PageFeature$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageFeature$1.class
+END
+CrawlerWorks$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlerWorks$6.class
+END
+CrawlerPageTest$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlerPageTest$1.class
+END
+PageFeature$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageFeature$5.class
+END
+WebFeatures$Feature$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebFeatures$Feature$1.class
+END
+MainApp.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/MainApp.class
+END
+LocalInfoLabelManage$MainTable$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoLabelManage$MainTable$2.class
+END
+AddressKeys0$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressKeys0$1.class
+END
+PageCrawlerKeywords$10.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$10.class
+END
+PageFilters$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageFilters$1.class
+END
+AddressKeys0$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressKeys0$5.class
+END
+PageCrawlerKeywords$14.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$14.class
+END
+PageFilters$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageFilters$5.class
+END
+PageCrawlerKeywords$18.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$18.class
+END
+PageCrawler$12.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$12.class
+END
+PageCrawler$16.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$16.class
+END
+PageHtmlClear.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageHtmlClear.class
+END
+MainApp$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/MainApp$1.class
+END
+PageCrawlerKeywords$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$3.class
+END
+CrawlersMain$DispState.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlersMain$DispState.class
+END
+WebSitCrawler.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSitCrawler.class
+END
+WebSiteCrawlerManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSiteCrawlerManager.class
+END
+LocalInfoManage.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoManage.class
+END
+PageCrawlerKeywords$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$7.class
+END
+CrawlersMain$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlersMain$4.class
+END
+PageCrawler$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$1.class
+END
+PhonePostCodeManage.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PhonePostCodeManage.class
+END
+CrawlersMain$8.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlersMain$8.class
+END
+CrawlerWorks.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlerWorks.class
+END
+PageCrawler$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$5.class
+END
+WebSiteCrawlerManager$SubTable$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSiteCrawlerManager$SubTable$1.class
+END
+WebSitCrawler$SubTable$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSitCrawler$SubTable$1.class
+END
+PageFeature.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageFeature.class
+END
+PageCrawler$9.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$9.class
+END
+AddressWords$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressWords$2.class
+END
+WebSiteCrawlerManager$SubTable$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSiteCrawlerManager$SubTable$5.class
+END
+WebFeatures$Feature.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebFeatures$Feature.class
+END
+LocalInfoLabelManage$SubTable$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoLabelManage$SubTable$3.class
+END
+CrawlerPageTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlerPageTest.class
+END
+LocalInfoManage$SubTable$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoManage$SubTable$4.class
+END
+PhonePostCodeManage$SubTable$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PhonePostCodeManage$SubTable$2.class
+END
+PageHtmlClear$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageHtmlClear$4.class
+END
+PageClearConfig$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageClearConfig$3.class
+END
+WebFeatures$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebFeatures$2.class
+END
+PhonePostCodeManage$SubTable$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PhonePostCodeManage$SubTable$6.class
+END
+WebSitCrawler$DisplayTable$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSitCrawler$DisplayTable$1.class
+END
+DistrictManage$MainTable$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/DistrictManage$MainTable$1.class
+END
+PageClearConfig$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageClearConfig$7.class
+END
+PageItems$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageItems$3.class
+END
+WebFeatures$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebFeatures$6.class
+END
+DistrictManage$MainTable$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/DistrictManage$MainTable$5.class
+END
+CrawlerWorks$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlerWorks$1.class
+END
+DistrictManage$SubTable$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/DistrictManage$SubTable$3.class
+END
+AppMain$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AppMain$3.class
+END
+AppMain$MainCrawler.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AppMain$MainCrawler.class
+END
+CrawlerWorks$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlerWorks$5.class
+END
+AppMain$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AppMain$7.class
+END
+PageFeature$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageFeature$4.class
+END
+CrawlerPageTest$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlerPageTest$4.class
+END
+LocalInfoLabelManage$MainTable$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoLabelManage$MainTable$1.class
+END
+CrawlersMain.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlersMain.class
+END
+AddressKeys0$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressKeys0$4.class
+END
+PhonePostCodeManage$MainTable$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PhonePostCodeManage$MainTable$2.class
+END
+PageCrawler.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler.class
+END
+PageCrawler$DisplayTale.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$DisplayTale.class
+END
+PageCrawlerKeywords$13.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$13.class
+END
+PageFilters$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageFilters$4.class
+END
+DistrictManage.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/DistrictManage.class
+END
+PageCrawlerKeywords$17.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$17.class
+END
+JTabbedPaneTitle.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/JTabbedPaneTitle.class
+END
+PageCrawler$11.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$11.class
+END
+PageCrawler$15.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$15.class
+END
+PhonePostCodeManage$SubTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PhonePostCodeManage$SubTable.class
+END
+AppMain$Output.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AppMain$Output.class
+END
+PageCrawler$19.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$19.class
+END
+PageCrawlerKeywords$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$2.class
+END
+CrawlersMain$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlersMain$3.class
+END
+PageItems.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageItems.class
+END
+PageCrawlerKeywords$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$6.class
+END
+PageCrawler$DispState.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$DispState.class
+END
+CrawlersMain$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlersMain$7.class
+END
+LocalInfoManage$ProvinceCity.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoManage$ProvinceCity.class
+END
+AppMain.form
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AppMain.form
+END
+PageCrawler$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$4.class
+END
+PageCrawler$MainCrawler.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$MainCrawler.class
+END
+PageCrawler$8.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$8.class
+END
+AddressWords$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressWords$1.class
+END
+LocalInfoLabelManage$SubTable$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoLabelManage$SubTable$2.class
+END
+WebSiteCrawlerManager$SubTable$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSiteCrawlerManager$SubTable$4.class
+END
+LocalInfoManage$SubTable$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoManage$SubTable$3.class
+END
+AddressWords$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressWords$5.class
+END
+PhonePostCodeManage$SubTable$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PhonePostCodeManage$SubTable$1.class
+END
+LocalInfoLabelManage$SubTable$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoLabelManage$SubTable$6.class
+END
+PageHtmlClear$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageHtmlClear$3.class
+END
+PageClearConfig$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageClearConfig$2.class
+END
+LocalInfoLabelManage$MainTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoLabelManage$MainTable.class
+END
+WebFeatures$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebFeatures$1.class
+END
+AddressWords.form
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressWords.form
+END
+PhonePostCodeManage$SubTable$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PhonePostCodeManage$SubTable$5.class
+END
+AddressWords$VerifyAddress.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressWords$VerifyAddress.class
+END
+PageClearConfig$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageClearConfig$6.class
+END
+PageItems$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageItems$2.class
+END
+AddressWords$QueryAddress.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressWords$QueryAddress.class
+END
+MainLocalService$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/MainLocalService$1.class
+END
+WebFeatures$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebFeatures$5.class
+END
+DistrictManage$MainTable$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/DistrictManage$MainTable$4.class
+END
+PageItems$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageItems$6.class
+END
+WebFeatures.form
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebFeatures.form
+END
+DistrictManage$SubTable$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/DistrictManage$SubTable$2.class
+END
+AppMain$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AppMain$2.class
+END
+CrawlerWorks$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlerWorks$4.class
+END
+DistrictManage$SubTable$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/DistrictManage$SubTable$6.class
+END
+AppMain$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AppMain$6.class
+END
+PageFeature$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageFeature$3.class
+END
+CrawlerPageTest$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlerPageTest$3.class
+END
+AddressKeys0$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressKeys0$3.class
+END
+PhonePostCodeManage$MainTable$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PhonePostCodeManage$MainTable$1.class
+END
+PageCrawlerKeywords$12.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$12.class
+END
+PageFilters$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageFilters$3.class
+END
+WebSitCrawler$getInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSitCrawler$getInfo.class
+END
+WebSiteCrawlerManager$getInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSiteCrawlerManager$getInfo.class
+END
+PageCrawlerKeywords$16.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$16.class
+END
+PageCrawler$10.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$10.class
+END
+WebSitCrawler$SubTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSitCrawler$SubTable.class
+END
+WebSiteCrawlerManager$SubTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSiteCrawlerManager$SubTable.class
+END
+AddressWords.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressWords.class
+END
+PageCrawler$14.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$14.class
+END
+LocalInfoLabelManage$SubTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoLabelManage$SubTable.class
+END
+PageCrawler$18.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$18.class
+END
+PageCrawlerKeywords$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$1.class
+END
+PageClearConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageClearConfig.class
+END
+MainApp$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/MainApp$3.class
+END
+WebFeatures.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebFeatures.class
+END
+CrawlersMain$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlersMain$2.class
+END
+PageCrawlerKeywords$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$5.class
+END
+WebSitCrawler$DisplayTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSitCrawler$DisplayTable.class
+END
+DistrictManage$MainTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/DistrictManage$MainTable.class
+END
+MainLocalService.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/MainLocalService.class
+END
+CrawlersMain$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlersMain$6.class
+END
+PageCrawlerKeywords$9.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$9.class
+END
+PageCrawler$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$3.class
+END
+AppMain.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AppMain.class
+END
+PageCrawler$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$7.class
+END
+WebSitCrawler$SubTable$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSitCrawler$SubTable$3.class
+END
+WebSiteCrawlerManager$SubTable$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSiteCrawlerManager$SubTable$3.class
+END
+LocalInfoLabelManage$SubTable$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoLabelManage$SubTable$1.class
+END
+LocalInfoManage$SubTable$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoManage$SubTable$2.class
+END
+AddressWords$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressWords$4.class
+END
+PageClearConfig$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageClearConfig$1.class
+END
+PageHtmlClear$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageHtmlClear$2.class
+END
+LocalInfoLabelManage$SubTable$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoLabelManage$SubTable$5.class
+END
+PhonePostCodeManage$SubTable$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PhonePostCodeManage$SubTable$4.class
+END
+PageClearConfig$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageClearConfig$5.class
+END
+PageHtmlClear$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageHtmlClear$6.class
+END
+PageItems$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageItems$1.class
+END
+PhonePostCodeManage$MainTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PhonePostCodeManage$MainTable.class
+END
+WebFeatures$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebFeatures$4.class
+END
+DistrictManage$MainTable$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/DistrictManage$MainTable$3.class
+END
+LocalInfoManage$ProvinceCity$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoManage$ProvinceCity$1.class
+END
+PageItems$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageItems$5.class
+END
+DistrictManage$SubTable$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/DistrictManage$SubTable$1.class
+END
+AppMain$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AppMain$1.class
+END
+CrawlerWorks$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlerWorks$3.class
+END
+CrawlersMain$Output.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlersMain$Output.class
+END
+DistrictManage$SubTable$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/DistrictManage$SubTable$5.class
+END
+AppMain$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AppMain$5.class
+END
+PageFeature$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageFeature$2.class
+END
+CrawlerPageTest$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlerPageTest$2.class
+END
+PageFeature$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageFeature$6.class
+END
+MainApp.form
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/MainApp.form
+END
+PageCrawlerKeywords.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords.class
+END
+PageCrawlerKeywords$DisplayTale.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$DisplayTale.class
+END
+CrawlersMain.form
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/CrawlersMain.form
+END
+AddressKeys0$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressKeys0$2.class
+END
+WebSiteCrawlerManager$BuildingBrands.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSiteCrawlerManager$BuildingBrands.class
+END
+WebSitCrawler$BuildingBrands.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/WebSitCrawler$BuildingBrands.class
+END
+PageCrawlerKeywords$11.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$11.class
+END
+PageFilters$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageFilters$2.class
+END
+AddressKeys0$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/AddressKeys0$6.class
+END
+PageCrawlerKeywords$15.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$15.class
+END
+PageFilters$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageFilters$6.class
+END
+PageCrawlerKeywords$19.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$19.class
+END
+PageCrawler$13.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$13.class
+END
+LocalInfoManage$SubTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/LocalInfoManage$SubTable.class
+END
+PageClearConfig.form
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageClearConfig.form
+END
+PageCrawler$17.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawler$17.class
+END
+PageCrawlerKeywords$DispState.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/application/wins/PageCrawlerKeywords$DispState.class
+END

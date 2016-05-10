@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/task
+END
+WorkTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/task/WorkTask.java
+END
+WorkTaskImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/task/WorkTaskImp.java
+END
+WorkTaskAImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/task/WorkTaskAImp.java
+END
+TaskManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/task/TaskManager.java
+END
+WorkTaskBImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/task/WorkTaskBImp.java
+END

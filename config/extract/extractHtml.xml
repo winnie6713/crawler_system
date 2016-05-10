@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+信息域提取规则
+-->
+<root>
+   <fields>
+      <field order = "1" key ="name">([^、]+、){1}[^、]+(?=、地址)</field>
+      <field order = "2" key ="address">(?&lt;=地址:)[^、]+?(?=、)</field>
+      <field order = "3" key ="label">(?&lt;=标签:)[^、,]+?(?=、|,)|(?&lt;=区域:)[^、]+?(?=、)</field>
+      <field order = "4" key ="phone">\d{8,13}|\d{3,4}-\d{7,8}|\d{3}-\d{3}-\d{4}</field>
+      <field order = "5" key ="phone_code">\d{3,4}(?=-)</field>
+      <field order = "6" key ="phone_number">(?&lt;=-)\d{7,8}</field>
+      <field order = "7" key ="remark">(?&lt;=点评)[^、]+?(?=、)|(?&lt;=评分)[^、]+、[^、]+?(?=、)</field>
+      <field order = "8" key ="date_publish">(?&lt;=点评)[^、]+?(?=、)|(?&lt;=评分)[^、]+、[^、]+?(?=、)</field>
+      <field order = "9" key ="time_service">(?&lt;=点评)[^、]+?(?=、)|(?&lt;=评分)[^、]+、[^、]+?(?=、)</field>
+   </fields>
+</root>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+   <fields>				
+      <field order="1" key="&lt;script[^&gt;]*&gt;[\d\D]*?&lt;/script&gt;|&lt;style[^&gt;]*&gt;[\d\D]*?&lt;/style&gt;" value=""></field>
+      <field order="2" key="：" value=":"></field>
+      <field order="4" key="、" value=","></field>
+      <field order="3" key="&lt;([^&gt;]*)&gt;" value="、"></field>
+      <field order="4" key="\s*|t|r|n" value=""></field>				
+      <field order="5" key="\、{2,}" value="、"></field>
+      <field order="6" key=":、" value=":"></field>
+   </fields>    
+</root>

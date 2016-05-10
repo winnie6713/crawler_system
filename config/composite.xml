@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+   <fields>
+      <field id="0" key = "name"></field>
+      <field id="1" key = "title"></field>
+      <field id="2" key = "label"></field>
+      <field id="3" key = "address"></field>
+      <field id="4" key = "province"></field>
+      <field id="5" key = "city"></field>
+      <field id="6" key = "county"></field>
+      <field id="7" key = "district"></field>
+      <field id="8" key = "zone"></field>
+      <field id="9" key = "house"></field>
+      <field id="10" key= "house_number"></field>
+      <field id="11" key= "story"></field>
+      <field id="12" key= "room"></field>
+      <field id="13" key= "position"></field>
+      <field id="14" key= "phone"></field>
+      <field id="15" key= "phone_code"></field>
+      <field id="16" key= "phone_number"></field>
+      <field id="17" key= "post"></field>
+      <field id="18" key= "reference"></field>
+      <field id="19" key= "distance"></field>
+      <field id="20" key= "directtion"></field>
+      <field id="21" key= "date_publish"></field>
+      <field id="22" key= "time_service"></field>
+      <field id="23" key= "collect_date"></field>
+      <field id="24" key= "collect_url"></field>
+      <field id="25" key= "active_title"></field>
+      <field id="26" key= "active_date_start"></field>
+      <field id="27" key= "active_date_end"></field>
+      <field id="28" key= "active_time_service"></field>
+      <field id="29" key= "active_content"></field>
+      <field id="30" key= "Abstract"></field>
+      <field id="31" key= "content"></field>
+      <field id="32" key= "remark"></field>
+   </fields> 
+</root>

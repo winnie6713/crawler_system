@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/db
+END
+KeyValueSort.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/db/KeyValueSort.class
+END
+DbConnect.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/db/DbConnect.class
+END
+PostInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/db/PostInfo.class
+END
+KeyValue.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/db/KeyValue.class
+END
+DbPostCode.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/db/DbPostCode.class
+END
+KeyValues.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/db/KeyValues.class
+END

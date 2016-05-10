@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+<features>
+       <feature value="http://www.aibang.com/?area">
+               <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}|\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://www.aibang.com/nanning/">
+               <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+               <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}|\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://www.aibang.com/shenzhen/">
+               <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+               <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}|\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://www.aibang.com/guangzhou/">
+               <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+               <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}|\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://www.aibang.com/taiyuan/">
+               <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+               <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}|\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://www.aibang.com/hefei/">
+               <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+               <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}|\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://www.aibang.com/huhehaote/">
+               <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+               <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}|\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://www.aibang.com/shanghai/">
+               <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+               <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}|\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://www.aibang.com/haerbin/">
+               <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+               <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}|\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://www.aibang.com/jinan">
+               <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+               <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}|\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://www.aibang.com/wulumuqi/">
+               <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+               <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}|\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://www.aibang.com/shijiazhuang/">
+               <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+               <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}|\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://www.aibang.com/haikou/">
+               <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+               <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}|\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://www.aibang.com/dalian/">
+               <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+               <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}|\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://bus.aibang.com/">
+                <item name="name">[^、]+?(?=、电话)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://tuan.aibang.com">
+                <item name="name">([^、]+?、){2}(?=地址:)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">d{8,11}|(?&lt;=电话:)\d{3,4}-\d{8}|(?&lt;=电话:)\d{9,11}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature>
+        <feature value="http://www.aibang.com/bizsearch/>
+                <item name="name">(?&lt;=[0-9]{1,2}.、)[^{公里)]+(?=、[0-9]{1,2}.[0-9]{1,2}公里)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+        </feature> 
+        <feature value="http://www.aibang.com/meishi/">
+                <item name="name">(?&lt;=、)[^、]+?、[^、]+?(?=、地址)</item>
+               	<item name="address">(?&lt;=地址:、)[^、]+?(?=、)</item>
+               	<item name="phone">(?&lt;=电话:、)\d{3,4}-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}-\d{3,4}-\d{4,8}</item>
+               	<item name="label">(?&lt;=、)[^、]+?(?=、地址)</item>
+        </feature>                        
+</features>    
+</root>

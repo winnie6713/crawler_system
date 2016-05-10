@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<works>
+    <work id="0"  mode="0" name="aibang_shanghai">
+        <mode>
+            <task>2</task>
+            <url>http://www.aibang.com/shanghai/</url>
+            <path_save>d:\product\aibang\pagecontent\</path_save>
+            <filters_url>D:\Projects\CrawlerSystem\config\jobs\filterUrls.xml</filters_url>
+            <clearhtml>D:\Projects\CrawlerSystem\config\jobs\clearHtml.xml</clearhtml>           
+            <deepth>2</deepth>
+            <keywords></keywords>
+        </mode>
+        <extractor>
+            <fields>
+                <name>(?&lt;=、)[^、]+(?=、地址)</name>
+                <address>(?&lt;=地址:)[^、]+?(?=、)</address>
+                <label>(?&lt;=标签:)[^、,]+?(?=、|,)|(?&lt;=区域:)[^、]+?(?=、)</label>
+                <phone>\d{8,13}|\d{3,4}-\d{7,8}|\d{3}-\d{3}-\d{4}</phone>
+                <phone_code>\d{3,4}(?=-)</phone_code>
+                <phone_number>(?&lt;=-)\d{7,8}</phone_number>
+                <postcode>\d{6}\s</postcode>
+                <remark>(?&lt;=点评)[^、]+?(?=、)|(?&lt;=评分)[^、]+、[^、]+?(?=、)</remark>
+                <content></content>
+                <date_publish>\d{2,4}.{1,2}\d{1,2}.{1,2}\d{1,2}</date_publish>
+                <time_service>(.{0,4}\d{1,2}:\d{1,2}.{1,2}\d{1,2}:\d{1,2}){1,}</time_service>
+            </fields>
+        </extractor>
+    </work>
+    <work id="1"  mode="0"  name="city8.com">
+        <mode>
+            <task>5</task>
+            <url>http://www.city8.com/</url>
+            <path_save>d:\product\city8\pagecontent\</path_save>
+            <filters_url>D:\Projects\CrawlerSystem\config\jobs\filterUrls.xml</filters_url>
+            <clearhtml>D:\Projects\CrawlerSystem\config\jobs\clearHtml.xml</clearhtml>
+            <deepth>2</deepth>
+            <keywords></keywords>
+        </mode>
+        <extractor>
+            <fields>
+                <name>([^、]+、){1}[^、]+(?=、地址)</name>
+                <address>(?&lt;=地址:)[^、]+?(?=、)</address>
+                <label>(?&lt;=标签:)[^、,]+?(?=、|,)|(?&lt;=区域:)[^、]+?(?=、)</label>
+                <phone>\d{8,13}|\d{3,4}-\d{7,8}|\d{3}-\d{3}-\d{4}</phone>
+                <phone_code>\d{3,4}(?=-)</phone_code>
+                <phone_number>(?&lt;=-)\d{7,8}</phone_number>
+                <postcode>\d{6}\s</postcode>
+                <remark>(?&lt;=点评)[^、]+?(?=、)|(?&lt;=评分)[^、]+、[^、]+?(?=、)</remark>
+                <content></content>
+                <url></url>
+                <date_publish>\d{2,4}.{1,2}\d{1,2}.{1,2}\d{1,2}</date_publish>
+                <time_service>(.{0,4}\d{1,2}:\d{1,2}.{1,2}\d{1,2}:\d{1,2}){1,}</time_service>
+            </fields>
+        </extractor>
+    </work>
+    <work id="2"  mode="0"  name="商场/购物中心ppsj.com.cn">
+        <mode>
+            <type>0</type>
+            <task>10</task>
+            <url>d:\product\ppsj\pagecontent\</url>
+            <path_save>d:\product\city8\pagecontent\</path_save>
+            <filters_url>D:\Projects\CrawlerSystem\config\jobs\filterUrls.xml</filters_url>
+            <clearhtml>D:\Projects\CrawlerSystem\config\jobs\clearHtml.xml</clearhtml>
+            <deepth>3</deepth>
+            <keywords></keywords>
+        </mode>
+        <extractor>
+            <fields>
+                <section>\d{1,}(.、){1}([^、]+、){4}</section>
+                <name>([^、]+?、){1}[^、]+?(?=、地址)</name>
+                <address>(?&lt;=地址)[^、]+?(?=、)</address>
+                <label>(?&lt;=标签:)[^、,]+?(?=、|,)|(?&lt;=区域:)[^、]+?(?=、)</label>
+                <phone>\d{8,13}|\d{3,4}-\d{7,8}|\d{3}-\d{3}-\d{4}</phone>
+                <phone_code>\d{3,4}(?=-)</phone_code>
+                <phone_number>(?&lt;=-)\d{7,8}</phone_number>
+                <postcode>\d{6}\s</postcode>
+                <remark>(?&lt;=点评)[^、]+?(?=、)|(?&lt;=评分)[^、]+、[^、]+?(?=、)</remark>
+                <content></content>
+                <url></url>
+                <date_publish>\d{2,4}.{1,2}\d{1,2}.{1,2}\d{1,2}</date_publish>
+                <time_service>(.{0,4}\d{1,2}:\d{1,2}.{1,2}\d{1,2}:\d{1,2}){1,}</time_service>
+            </fields>
+        </extractor>
+    </work>        
+    <work id="101"  mode="1"  name="群光广场">
+        <mode>
+            <task>10</task>
+            <url></url>
+            <path_save>d:\product\aibang\wh_qunguang\content\</path_save>
+            <filters_url>D:\Projects\CrawlerSystem\config\jobs\filterUrls.xml</filters_url>
+            <clearhtml>D:\Projects\CrawlerSystem\config\jobs\clearHtml.xml</clearhtml>      
+            <deepth>3</deepth>
+            <keywords>
+                <word>'群光广场商家'</word>
+                <word>'群光广场美食'</word>
+                <word>'群光广场品牌'</word>
+            </keywords>
+        </mode>
+        <extractor>
+            <fields>
+                <name>([^、]+?、){4}[^、]+?(?=、[地址|位置|位于])</name>
+                <address>(?&lt;=地址)([^、]+、){0}[^、]+?(?=、)|(?&lt;=位置)([^、]+、){0}[^、]+?(?=。 )|(?&lt;=位于)([^、]+、){0}[^、]+?(?=、)</address>
+                <label>(?&lt;=标签:)[^、,]+?(?=、|,)|(?&lt;=区域:)[^、]+?(?=、)</label>
+                <phone>\d{8,13}|\d{3,4}-\d{7,8}|\d{3}-\d{3}-\d{4}</phone>
+                <phone_code>\d{3,4}(?=-)</phone_code>
+                <phone_number>(?&lt;=-)\d{7,8}</phone_number>
+                <postcode>\d{6}\s</postcode>
+                <remark>(?&lt;=点评)[^、]+?(?=、)|(?&lt;=评分)[^、]+、[^、]+?(?=、)</remark>
+                <date_publish>\d{2,4}.{1,2}\d{1,2}.{1,2}\d{1,2}</date_publish>
+                <time_service>(.{0,4}\d{1,2}:\d{1,2}.{1,2}\d{1,2}:\d{1,2}){1,}</time_service>
+            </fields>
+        </extractor>
+    </work>
+    <work id="102" mode="1" name="首都机场">
+        <mode>
+            <task>20</task>
+            <url></url>
+            <path_save>d:\product\aibang\BeiJing\content\</path_save>
+            <filters_url>D:\Projects\CrawlerSystem\config\jobs\filterUrls.xml</filters_url>
+            <clearhtml>D:\Projects\CrawlerSystem\config\jobs\clearHtml.xml</clearhtml>      
+            <deepth>4</deepth>
+            <keywords>
+                <word>site:aibang.com 首都机场</word>
+                <word>site:ddmap.com 首都机场</word>
+            </keywords>
+        </mode>
+        <extractor>
+            <fields>
+                <name  order="1" >([^、]+?、){4}[^、]+?(?=、[地址|位置|位于])</name>
+                <address  order="2" >(?&lt;=地址:)[^、]+?(?=、)|(?&lt;=地址:、)[^、]+?(?=、)</address>
+                <label  order="3" >(?&lt;=标签:)[^、,]+?(?=、|,)|(?&lt;=区域:)[^、]+?(?=、)</label>
+                <phone  order="4" >\d{8,13}|\d{3,4}-\d{7,8}|\d{3}-\d{3}-\d{4}</phone>
+                <postcode  order="5" >\d{6}\s</postcode>
+                <remark  order="6" >(?&lt;=点评)[^、]+?(?=、)|(?&lt;=评分)[^、]+、[^、]+?(?=、)</remark>
+                <date_publish  order="7" >\d{2,4}.{1,2}\d{1,2}.{1,2}\d{1,2}</date_publish>
+                <time_service  order="8" >(.{0,4}\d{1,2}:\d{1,2}.{1,2}\d{1,2}:\d{1,2}){1,}</time_service>
+            </fields>
+        </extractor>
+    </work>
+    <work id="103" mode="1" name="浦东机场">
+        <mode>
+            <task>4</task>
+            <url></url>
+            <path_save>d:\product\aibang\shanghai\ariport\content\</path_save>
+            <filters_url>D:\Projects\CrawlerSystem\config\jobs\filterUrls.xml</filters_url>
+            <clearhtml>D:\Projects\CrawlerSystem\config\jobs\clearHtml.xml</clearhtml>      
+            <deepth>2</deepth>
+            <keywords>
+                <word>site:aibang.com 浦东机场 上海</word>
+                <word>site:ddmap.com 虹桥机场 上海</word>
+            </keywords>
+        </mode>
+        <extractor>
+            <fields>
+                <name  order="1" >([^、]+?、){4}[^、]+?(?=、[地址|位置|位于])</name>
+                <address  order="2" >(?&lt;=地址:)[^、]+?(?=、)|(?&lt;=地址:、)[^、]+?(?=、)</address>
+                <label  order="3" >(?&lt;=标签:)[^、,]+?(?=、|,)|(?&lt;=区域:)[^、]+?(?=、)</label>
+                <phone  order="4" >\d{8,13}|\d{3,4}-\d{7,8}|\d{3}-\d{3}-\d{4}</phone>
+                <postcode  order="5" >\d{6}\s</postcode>
+                <remark  order="6" >(?&lt;=点评)[^、]+?(?=、)|(?&lt;=评分)[^、]+、[^、]+?(?=、)</remark>
+                <date_publish  order="7" >\d{2,4}.{1,2}\d{1,2}.{1,2}\d{1,2}</date_publish>
+                <time_service  order="8" >(.{0,4}\d{1,2}:\d{1,2}.{1,2}\d{1,2}:\d{1,2}){1,}</time_service>
+            </fields>
+        </extractor>
+    </work>    
+</works>

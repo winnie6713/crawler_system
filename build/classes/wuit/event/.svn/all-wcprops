@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/event
+END
+EndTaskEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/event/EndTaskEvent.class
+END
+TaskTimeOutEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/event/TaskTimeOutEvent.class
+END
+AbstractEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/event/AbstractEvent.class
+END
+TaskRunTime.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/event/TaskRunTime.class
+END
+BeginTaskEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/event/BeginTaskEvent.class
+END

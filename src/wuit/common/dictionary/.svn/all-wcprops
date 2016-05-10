@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary
+END
+BaseAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/BaseAddress.java
+END
+ManagerDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/ManagerDictionary.java
+END
+MapNameAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/MapNameAddress.java
+END
+AddressService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/AddressService.java
+END
+BaseAddressSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/BaseAddressSort.java
+END
+AddressCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/AddressCollector.java
+END
+MapPhoneAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/MapPhoneAddress.java
+END

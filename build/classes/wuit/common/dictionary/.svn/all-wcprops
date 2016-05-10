@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary
+END
+AddressCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/AddressCollector.class
+END
+MapPhoneAddress.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/MapPhoneAddress.class
+END
+BaseAddress.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/BaseAddress.class
+END
+ManagerDictionary.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/ManagerDictionary.class
+END
+AddressCollector$ExtractRoad.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/AddressCollector$ExtractRoad.class
+END
+MapNameAddress.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/MapNameAddress.class
+END
+AddressService.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/AddressService.class
+END
+BaseAddressSort.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/dictionary/BaseAddressSort.class
+END

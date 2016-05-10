@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+   <keywords>省市自治区地区自治州县路街镇乡</keywords>
+   <address>
+      <province keys="省市自治区" fields="省,市,自治区"></province>
+      <city keys="市地区自治州" fields="市,区,地区,自治州"></city>
+      <county keys="市,县,区,自治县" fields="市,县,区,自治县"></county>   
+      <keys>省市自治区地区自治州县路街镇乡</keys>      
+   </address>
+   <local>
+      <keys>路街镇乡大厦中心广场</keys>
+      <district>路,街,镇,乡</district>
+      <zone>
+         <name>路,街,镇,乡</name>
+         <number>号,弄</number>
+      </zone>
+      <house>
+         <name>大厦,中心,广场
+            <number>[\\d{1,}|a-zA-Z]楼,[\\d{1,}|a-zA-Z]号楼[\\d{1,}|a-zA-Z]座</number>
+         </name>
+         <story>[\\d{1,}|a-zA-Z]楼</story>
+         <room>
+            <name></name>
+            <number></number>
+         </room>
+         <position></position>
+      </house>
+      <reference>(?<=\\-)[^\\-]+?(?=\\-)</reference>
+   </local>
+</root>

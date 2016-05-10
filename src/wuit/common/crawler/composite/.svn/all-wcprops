@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite
+END
+RunJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/RunJob.java
+END
+DSCrawlerPageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/DSCrawlerPageInfo.java
+END
+CategoryComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/CategoryComposite.java
+END
+DSExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/DSExtractor.java
+END
+CompositeConvert.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/CompositeConvert.java
+END
+LocalInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/LocalInfo.java
+END
+DbComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/DbComposite.java
+END
+DSCrawlerUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/DSCrawlerUrl.java
+END
+DSAssress.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/DSAssress.java
+END
+DSCrawlerActive.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/DSCrawlerActive.java
+END
+DSCrawlerPageTxt.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/DSCrawlerPageTxt.java
+END
+CompositeXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/CompositeXml.java
+END
+DSCompositeStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/DSCompositeStat.java
+END
+ExtractFieldRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/ExtractFieldRules.java
+END
+DSComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/DSComposite.java
+END
+CompositeParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/composite/CompositeParse.java
+END

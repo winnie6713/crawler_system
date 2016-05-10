@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/search
+END
+Crawler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/search/Crawler.java
+END
+CrawlerBaidu.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/search/CrawlerBaidu.java
+END
+Crawler360.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/search/Crawler360.java
+END
+CrawlerSogou.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/search/CrawlerSogou.java
+END
+CrwalerGoogle.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/search/CrwalerGoogle.java
+END

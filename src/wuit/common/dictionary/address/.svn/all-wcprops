@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/address
+END
+AddressExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/address/AddressExtractor.java
+END
+AddressWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/address/AddressWord.java
+END
+MySQLDBAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/address/MySQLDBAddress.java
+END
+EvalutionValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/address/EvalutionValue.java
+END
+AbsoluteKeywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/address/AbsoluteKeywords.java
+END
+ReferenceKeywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/address/ReferenceKeywords.java
+END
+ServiceAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/address/ServiceAddress.java
+END
+Evaluation.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/address/Evaluation.java
+END
+AddressDataBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/address/AddressDataBase.java
+END
+TextDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/address/TextDB.java
+END
+AddressExtractDirect0.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/address/AddressExtractDirect0.java
+END
+TransAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/dictionary/address/TransAddress.java
+END

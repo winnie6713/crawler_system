@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler
+END
+CrawlerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/CrawlerTask.java
+END
+CrawlerWork.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/CrawlerWork.java
+END
+CrawlerMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/CrawlerMain.java
+END
+CrawlerUtiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/CrawlerUtiles.java
+END
+CrawlerData.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/CrawlerData.java
+END
+CrawlerJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/CrawlerJob.java
+END
+ExtractByKeyWords.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/crawler/ExtractByKeyWords.java
+END

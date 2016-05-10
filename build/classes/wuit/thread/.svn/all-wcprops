@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/thread
+END
+TaskTimeOutThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/thread/TaskTimeOutThread.class
+END
+ThreadPool.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/thread/ThreadPool.class
+END
+TaskMonitorThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/thread/TaskMonitorThread.class
+END
+WorkThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/thread/WorkThread.class
+END

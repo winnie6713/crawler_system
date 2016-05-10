@@ -1,0 +1,26 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package wuit.event;
+
+import wuit.task.WorkTask;
+import wuit.thread.WorkThread;
+
+/**
+ *
+ * @author lxl
+ */
+public abstract class AbstractEvent {
+    protected WorkThread workthread;   
+    protected Thread nowthread;   
+    protected WorkTask nowtask;   
+    //事件触发   
+    public synchronized void execute(){};   
+    @Override  
+    public boolean equals(Object obj) {   
+        // TODO Auto-generated method stub   
+        AbstractEvent other=(AbstractEvent)obj;   
+        return this.workthread==other.workthread&&this.nowtask==this.nowtask;   
+    };    
+}

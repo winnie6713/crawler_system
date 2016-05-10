@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite
+END
+DbComposite$ExtractFromHtml.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/DbComposite$ExtractFromHtml.class
+END
+CompositeXml$Phone.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/CompositeXml$Phone.class
+END
+DSCrawlerActive.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/DSCrawlerActive.class
+END
+CompositeXml.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/CompositeXml.class
+END
+CompositeXml$Active.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/CompositeXml$Active.class
+END
+DSCrawlerPageTxt.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/DSCrawlerPageTxt.class
+END
+DSCompositeStat.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/DSCompositeStat.class
+END
+CompositeXml$Date.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/CompositeXml$Date.class
+END
+DSComposite.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/DSComposite.class
+END
+ExtractFieldRules.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/ExtractFieldRules.class
+END
+CompositeXml$Collect.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/CompositeXml$Collect.class
+END
+CompositeXml$Address.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/CompositeXml$Address.class
+END
+CompositeParse.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/CompositeParse.class
+END
+RunJob.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/RunJob.class
+END
+DSCrawlerPageInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/DSCrawlerPageInfo.class
+END
+CategoryComposite.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/CategoryComposite.class
+END
+DSExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/DSExtractor.class
+END
+CompositeConvert.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/CompositeConvert.class
+END
+CompositeXml$Reference.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/CompositeXml$Reference.class
+END
+LocalInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/LocalInfo.class
+END
+DbComposite.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/DbComposite.class
+END
+DSCrawlerUrl.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/DSCrawlerUrl.class
+END
+CompositeXml$Composite.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/CompositeXml$Composite.class
+END
+DSAssress.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/composite/DSAssress.class
+END

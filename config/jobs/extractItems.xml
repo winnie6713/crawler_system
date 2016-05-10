@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<domains>
+    <domain name="so" value="so.com">
+        <features>
+            <feature value="so.com/s|17u.cn/youlun/tours|baidu.com/s|so.360.cn/s|c.360webcache.com/c|wenda.so.com/search|.hao123.com|zhidao.baidu.com|wenda.so.com|e.tf.360.cn|hotel.qunar.com">
+                    <item name="">[^、电话]+?(?=地址)</item>
+                    <item name="">(?&lt;=地址:)[^、电话]+?(?=电话)</item>
+                    <item name="">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+            </feature>
+        </features>
+    </domain>
+    <domain  name="17u.cn" value="17u.cn/Search">
+        <features>
+            <feature value="17u.cn/Search">
+                    <item name="name">[^、]+?、[^、]+?(?=、、周边)</item>
+                    <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                    <item name="time_service">(?&lt;=营业时间:)[^、]+?(?=、)</item>
+                    <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+            </feature>
+        </features>
+    </domain>
+    <domain  name="tuan.360.cn" value="tuan.360.cn">
+        <features>
+            <feature>
+                <item name="name">(?&lt;=商家:)[^、]+?(?=、)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+            </feature>
+        </features>
+    </domain>
+    <domain name="5yi.com" value="5yi.com/">
+        <features>
+            <feature value="5yi.com/">
+                <item name="name">(?&lt;=\&gt;、)[^、]+?(?=、)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+            </feature>
+        </features>
+    </domain>    
+    <domain name="58.com/shangpu" value="58.com/shangpu">
+        <features>
+            <feature value="5yi.com/">
+                <item name="name">(?&lt;=、)[^、]+?(?=、浏览)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="time_service">(?&lt;=营业时间)[^、]+?(?=、)</item>
+            </feature>
+        </features>
+    </domain> 
+    <domain name="store.tuan800.com" value="store.tuan800.com">
+        <features>
+            <feature value="store.tuan800.com">
+                <item name="name">(?&lt;=、)[^、]+?(?=、申请商家认证)|(?&lt;=、)[^、掌柜]+?(?=、地址:)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="time_service">(?&lt;=营业时间:)[^、]+?(?=、)</item>
+            </feature>
+        </features>
+    </domain>
+    <domain name="9tour.cn/place" value="9tour.cn/place">
+        <features>
+            <feature value="9tour.cn/place">
+                <item name="name">(?&lt;=查看更多图片、)[^、]+?(?=、区域:)</item>
+                <item name="address">(?&lt;=地址:、)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="label">(?&lt;=区域、)[^:]+?(?=、地图)</item>
+            </feature>
+        </features>
+    </domain>
+    <domain name="ppsj.com.cn" value="shopping.ppsj.com.cn">
+        <features>
+            <feature value="shopping.ppsj.com.cn">
+                <item name="name">(?&lt;=简介:、)[^、，]+?(?=、城市)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、经营品牌)</item>
+                <item name="abstract">(?&lt;=经营品牌、)[^、]+?、[^、]+?(?=、)</item>
+                <item name="label">(?&lt;=城市:)[^、]+?(?=、)</item>
+            </feature>
+            <feature value="pp.ppsj.com.cn">
+                <item name="name">[^、]+?(?=、地址)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+            </feature>            
+        </features>
+    </domain>
+    <domain name="haodou.com/shop" value="haodou.com/shop">
+        <features>
+            <feature value="haodou.com/shop">
+                <item name="name">[^、]+?(?=、电话)|([^、]+?、){2}[^、]+?(?=、详细地址)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)|(?&lt;=详细地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=联系电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+            </feature>
+        </features>
+    </domain>
+    <domain name="55tuan.com" value="55tuan.com/biz">
+        <features>
+            <feature value="55tuan.com/biz">
+                <item name="name">[^、]+?(?=、营业时间:)</item>
+                <item name="address">(?&lt;=地址:、)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:、)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="time_service">(?&lt;=营业时间:)[^、]+?(?=、)</item>
+            </feature>
+            <feature value="55tuan.com/goods">
+                <item name="name">[^、]+?(?=、地址:)</item>
+                <item name="address">(?&lt;=地址:、)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:、)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="time_service">(?&lt;=营业时间:)[^、]+?(?=、)</item>
+            </feature>            
+        </features>
+    </domain>    
+    <domain name="film.spider.com.cn" value="film.spider.com.cn/sh-cinema/">
+        <features>
+            <feature value="film.spider.com.cn/sh-cinema/">
+                <item name="name">[^、]+?(?=、  评分)</item>
+                <item name="address">(?&lt;=详细地址:)[^、]+?、[^、]+?(?=、)</item>
+            </feature>
+            <feature value="film.spider.com.cn">
+                <item name="name">[^、]+?(?=、地址)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+            </feature>            
+        </features>
+    </domain>  
+    <domain name="hao224.com" value="hao224.com/">
+        <features>
+            <feature value="hao224.com/">
+                <item name="name">(?&lt;=商家:)[^、暂无]+?(?=、)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="time_service">(?&lt;=营业时间)[^、]+?(?=、)</item>
+            </feature>
+        </features>
+    </domain>
+    <domain name="nuomi.com" value="nuomi.com/deal">
+        <features>
+            <feature value="nuomi.com/deal">
+                <item name="name">[^、]+?(?=、地址)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="time_service">(?&lt;=营业时间)[^、]+?(?=、)</item>
+            </feature>
+        </features>
+    </domain>
+    <domain name="aibang.com" value="www.aibang.com/\?area|zizhucan">
+        <features>
+            <feature value="www.aibang.com/\?area|zizhucan">
+                <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}|\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+            </feature>
+            <feature value="www.aibang.com/shanghai/">
+                <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}|\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+            </feature>
+            <feature value="bus.aibang.com/">
+                <item name="name">[^、]+?(?=、电话)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+            </feature>
+            <feature value="tuan.aibang.com">
+                <item name="name">([^、]+?、){2}(?=地址:)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">\d{8,11}|(?&lt;=电话:)\d{3,4}\-\d{8}|(?&lt;=电话:)\d{9,11}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+            </feature>
+            <feature value="www.aibang.com/bizsearch/">
+                <item name="name">(?&lt;=、)[^、]+?、[^、]+?(?=、地址)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+            </feature> 
+            <feature value="aibang.com/meishi/">
+                <item name="name">(?&lt;=、)[^、]+?、[^、]+?(?=、地址)</item>
+                <item name="address">(?&lt;=地址:、)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:、)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="label">(?&lt;=、)[^、]+?(?=、地址)</item>
+            </feature>                        
+        </features>
+    </domain>    
+   
+    <domain name="city8.com" value="hotel.city8.com">
+        <features>
+            <feature value="hotel.city8.com">
+                <item name="name">[^、]+?(?=、区域)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="label">(?&lt;=区域:)[^、]+?(?=、)</item>
+            </feature>
+            <feature value="city8.com/city8-ps/">
+                <item name="name">[^、]+?(?=、简介)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?、(?=电话)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="label">(?&lt;=简介:)[^、]+?(?=地址)</item>
+            </feature>            
+            <feature value="city8.com/.+?/poi|city8.com/poi">
+                <item name="name">[^、电话:]+?(?=、地址)</item>
+                <item name="address">(?&lt;=地址:)[^、]+?(?=、电话)</item>
+                <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                <item name="label">(?&lt;=简介:)[^、]+?(?=地址)</item>
+            </feature>    
+        </features>
+    </domain>    
+    <domain name="ddmap.com" value="ddmap.com">
+        <features>
+                <feature value="ddmap.com/21/city/">
+                    <item key ="name">[^、电话:]+?(?=、地址)</item>
+                    <item key ="address">(?&lt;=地址:)[^、]+?(?=、电话)</item>
+                    <item key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                </feature>
+                <feature value="ddmap.com/map/">
+                    <item key ="name">[^、电话:]+?(?=、地址)</item>
+                    <item key ="address">(?&lt;=地址:)[^、]+?(?=查看地图、)</item>
+                    <item key ="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+                    <item key ="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                </feature>
+                <feature value="ddmap.com/mstmap50007/g_search.jsp?">
+                    <item key ="name">[^、]+?(?=、地址)</item>
+                    <item key ="address">(?&lt;=地址:)[^、]+?(?=查看地图、)</item>
+                    <item key ="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+                </feature>
+                <feature value="ddmap.com/755/city">
+                    <item key ="name">[^、]+?(?=、地址)</item>
+                    <item key ="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                    <item key ="phone">(?&lt;=电话:)[^、]+?(?=、)</item>
+                </feature>
+                <feature value="www.ddmap.com/21/listpv/">
+                    <item key ="name">(?&lt;=、)[^、]+?(?=([^、]+?、){1}地址)</item>
+                    <item key ="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                    <item key ="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+                </feature>
+        </features>        
+    </domain>
+    <domain name="dianping.com" value="dianping.com">
+        <features>
+                <feature value="dianping.com/search/">
+                    <item key ="name">[^、]*?[、分店|.*]*?(?=、地址)</item>
+                    <item key ="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                    <item key ="phone">\d{3,4}\-\d{8,10}|\d{8,13}|\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                </feature>
+        </features>        
+    </domain>
+    <domain name="edushi.com" value="edushi.com/hy">
+        <features>
+                <feature value="edushi.com/hy">
+                    <item name="name">[^、]+?(?=、登记时间:)</item>
+                    <item name="address">(?&lt;=地址:、)[^、]+?(?=、)</item>
+                    <item name="post">(?&lt;=邮编:)d{6}</item>
+                    <item name="phone">(?&lt;=电话:)d{3,4}-d{8,10}|(?&lt;=电话:)d{8,13}|(?&lt;=电话:)d{3,4}-d{3,4}-d{4,8}</item>
+                </feature>
+        </features>        
+    </domain>
+    <domain name="qq.com" value="qq.com">
+        <features>
+                <feature value="go.qq.com/hotel/list/|go.qq.com/static/hotel/detail">
+                    <item name="name">([^、\d]*?、){0,1}[^、]+?(?=、区域:)</item>
+                    <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                    <item name="post">(?&lt;=区域:)[^、]+?(?=、)</item>
+                    <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                </feature>
+        </features>        
+    </domain>
+    <domain name="hotel.qunar.com/hbmap" value="hotel.qunar.com/hbmap">
+        <features>
+                <feature value="hotel.qunar.com/hbmap">
+                    <item name="name">[^、]+?(?=、电话)</item>
+                    <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                    <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                </feature>
+        </features>        
+    </domain>
+    <domain name="huitongke.com/hotel" value="huitongke.com/hotel">
+        <features>
+                <feature value="huitongke.com/hotel">
+                    <item name="name">(?&lt;=\&gt;、)[^&gt;]+?([^、]+?)(?=、地址)</item>
+                    <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                    <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+                    <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                </feature>
+        </features>        
+    </domain>
+    <domain name="jifencity.com/" value="jifencity.com/">
+        <features>
+                <feature value="jifencity.com/">
+                    <item name="name">(?&lt;=、)[^、]+?(?=、地址)</item>
+                    <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                    <item name="label">(?&lt;=标签:)[^、]+?(?=、)</item>
+                    <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                </feature>
+        </features>        
+    </domain>     
+    <domain name="lashou.com/deal" value="lashou.com/deal">
+        <features>
+                <feature value="lashou.com/deal">
+                    <item name="name">(?&lt;=、)[^、]+?(?=、查看完整地图)</item>
+                    <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                    <item name="time_service">(?&lt;=营业时间:)[^、]+?(?=、)</item>
+                    <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                </feature>
+        </features>        
+    </domain>  
+    <domain name="maigoo.com/shop/" value="maigoo.com/shop/">
+        <features>
+                <feature value="maigoo.com/shop/">
+                    <item name="name">(?&lt;=、)[^、]+?(?=、电话:)</item>
+                    <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                    <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                </feature>
+        </features>        
+    </domain> 
+    <domain name="map.sogou.com/poi/" value="map.sogou.com/poi/">
+        <features>
+                <feature value="map.sogou.com/poi/">
+                    <item name="name">(?&lt;=、)[^、]+?(?=、电话:)</item>
+                    <item name="address">(?&lt;=地址:、)[^、]+?(?=、)</item>
+                    <item name="phone">(?&lt;=电话:、)\d{3,4}\-\d{8,10}|(?&lt;=电话:、)\d{8,13}|(?&lt;=电话:、)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                </feature>
+                <feature value="map.sogou.com/index/">
+                    <item name="name">(?&lt;=、)[^、]+?(?=、地址:)</item>
+                    <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                    <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                </feature>                
+        </features>        
+    </domain>
+    <domain name="meituan.com/movie/" value="meituan.com/movie/">
+        <features>
+                <feature value="meituan.com/movie/">
+                    <item name="name">([^、]+?、){2}[^、]+?(?=、地址)</item>
+                    <item name="address">(?&lt;=地址:、)[^、]+?(?=、)</item>
+                    <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                </feature>
+        </features>        
+    </domain>    
+    <domain name="quna.com/search" value="quna.com/search">
+        <features>
+                <feature value="quna.com/search">
+                    <item name="name">(?&lt;=、)[^、]+?(?=、电话)</item>
+                    <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                    <item name="phone">(?&lt;=电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                </feature>
+        </features>        
+    </domain>   
+    <domain name="zentuan.com/tuangou" value="zentuan.com/tuangou">
+        <features>
+                <feature value="zentuan.com/tuangou">
+                    <item name="name">(?&lt;=商家名称:)[^、]+?(?=、)</item>
+                    <item name="address">(?&lt;=地址:)[^、]+?(?=、)</item>
+                    <item name="phone">(?&lt;=联系电话:)\d{3,4}\-\d{8,10}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</item>
+                </feature>
+        </features>        
+    </domain>   
+</domains>

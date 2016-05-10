@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <extract id="1" key = "www.aibang.com/\?area|zizhucan">
+        <fields>
+            <field key ="name" order="1">(?&lt;=、)[^、]+?(?=、地址:)</field>
+            <field key ="address" order="2">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone" order="3">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}|\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key ="label" order="4">(?&lt;=标签:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>
+    <extract id="2" key = "www.aibang.com/shanghai/">
+        <fields>
+            <field key ="name" order="1">(?&lt;=、)[^、]+?(?=、地址:)</field>
+            <field key ="address" order="2">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone" order="3">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}|\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key ="label" order="4">(?&lt;=标签:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>    
+   <extract id="3" key = "bus.aibang.com/">
+        <fields>
+            <field key ="name" order="1">[^、]+?(?=、电话)</field>
+            <field key ="address" order="2">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone" order="3">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{8,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key ="label" order="4">(?&lt;=标签:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>     
+   <extract id="4" key = "tuan.aibang.com">
+        <fields>
+            <field key ="name"  order="1" >([^、]+?、){2}(?=地址:)</field>
+            <field key ="address"  order="2" >(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone" order="3" >\d{8,11}|(?&lt;=电话:)\d{3,4}\-\d{8}|(?&lt;=电话:)\d{9,11}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+        </fields>
+    </extract>     
+    <extract id="5" key = "www.aibang.com/bizsearch/">
+        <fields>
+            <field key ="name" order="1">(?&lt;=、)[^、]+?、[^、]+?(?=、地址)</field>
+            <field key ="address" order="2">(?&lt;=地址:)[^、]+?(?=、)</field>
+            <field key ="phone" order="3">(?&lt;=电话:)\d{3,4}\-\d{7,}|(?&lt;=电话:)\d{9,13}|(?&lt;=电话:)\d{3,4}\-\d{3,4}\-\d{4,8}</field>
+            <field key ="label" order="4">(?&lt;=标签:)[^、]+?(?=、)</field>
+        </fields>
+    </extract>    
+</root>

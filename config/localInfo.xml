@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+    <LocalInfo>
+        <Name></Name>
+        <Label></Label>
+        <Local>
+            <Address></Address>
+            <Province></Province>
+            <City name="" road = "" number=""></City>
+            <County name="" road = "" number=""></County>
+            <Township name="" road = "" number=""></Township>
+            <Village name="" road = "" number=""></Village>
+            <Building name="" floor="" room = ""></Building>
+        </Local>
+        <Phone code=""></Phone>
+        <Postcode></Postcode>
+        <Content servicetiem=""></Content>
+        <Collection>
+            <Date></Date>
+            <URL></URL>
+            <IP></IP>
+        </Collection>
+    </LocalInfo>
+</root>

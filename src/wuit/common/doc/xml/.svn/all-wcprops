@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/doc/xml
+END
+AddressKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/doc/xml/AddressKeys.java
+END
+ParseKeyValueXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/doc/xml/ParseKeyValueXml.java
+END
+ParseWorkConfigXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/doc/xml/ParseWorkConfigXml.java
+END
+DBConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/doc/xml/DBConnection.java
+END
+ParseHTMLConfigXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/doc/xml/ParseHTMLConfigXml.java
+END
+DSCompositeMapXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/src/wuit/common/doc/xml/DSCompositeMapXml.java
+END

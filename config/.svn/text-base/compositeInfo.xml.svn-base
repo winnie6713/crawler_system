@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COMPOSITES>
+    <COMPOSITE id="" name="" label="" service="" publish="" >
+        <!-- 名称—name; 标签—label;营业时间:service— time_service;发布信息时间:publish—date_publish -->
+        <PHONE code="" no=""></PHONE>
+        <!-- 电话—phone;区号code—phone_code;号码—pnone_number -->
+        <ADDRESS province = "" city = "" county = ""  post="">
+            <!-- 地址value—address;省份—province;城市—city;区县—county;邮编post—postcode;-->
+            <DISTRICT></DISTRICT>
+            <!-- 不含省市县的地址信息 -->
+            <ROAD no = "" ></ROAD>
+            <!-- 路、街道  —— road; 牌号  —— road_number -->
+            <ZONE no = "" ></ZONE>
+            <!-- 乡、镇、村、小区  —— zone ;牌号  —— zone_number -->
+            <HOUSE no = "" ></HOUSE>
+            <!-- 建筑物名称  —— house; 编号  —— house_number -->
+            <STOREY room="" position = "" ></STOREY>
+            <!-- 楼层— storey;房间,室—room;位置—position -->
+            <REFERENCE distince="" direction=""></REFERENCE>
+            <!-- 参照物—reference;距离—distince;方位—direction -->
+        </ADDRESS>
+        <ABSTRACT></ABSTRACT>
+        <!-- 简介 —— Abstract -->
+        <CONTENT></CONTENT><!-- 详细内容  —— content -->
+        <COLLECT title="" date="" dns="" keywords="">
+            <!-- 信息来源 标题—collect_title;日期—collect_date;域名—collect_dns;关键字—collect_keywords-->
+            <URL></URL><!-- 链接—collect_url -->
+            <DESCRIPTION></DESCRIPTION><!-- 描述—collect_description -->
+        </COLLECT>
+        <ACTIVE title="" begin="" end="" time="">
+            <!-- 活动 标题—active_title;开始—active_date_begin;截至—active_date_end;时间—active_time_service -->
+            <content></content><!--活动内容— active_items -->
+        </ACTIVE>
+        <REMARK></REMARK><!--说明—remark -->
+    </composite>
+</composites>

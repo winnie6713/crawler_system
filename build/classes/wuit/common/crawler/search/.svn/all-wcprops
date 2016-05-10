@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/search
+END
+CrawlerSogou.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/search/CrawlerSogou.class
+END
+CrwalerGoogle.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/search/CrwalerGoogle.class
+END
+Crawler.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/search/Crawler.class
+END
+CrawlerBaidu.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/search/CrawlerBaidu.class
+END
+Crawler360.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/crawler_system/!svn/ver/2/CrawlerSystem/build/classes/wuit/common/crawler/search/Crawler360.class
+END

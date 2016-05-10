@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+    <floor  name = "B1层" code="13" >
+        <zone code=""></zone>        
+    </floor>
+    <floor  name = "1层" code="21" >
+        <zone code=""></zone>        
+    </floor> 
+    <floor  name = "2层" code="27" >
+        <zone code=""></zone>        
+    </floor>
+    <floor  name = "3层" code="30" >
+        <zone code=""></zone>        
+    </floor>
+    <floor  name = "4层" code="35" >
+        <zone code=""></zone>        
+    </floor>
+    <floor  name = "5层" code="45" >
+        <zone code=""></zone>        
+    </floor>     
+    <floor  name = "6层" code="52" >
+        <zone code=""></zone>        
+    </floor>     
+    <floor name = "7层" code="10" >
+        <zone code="10" name="">
+            <shopping name="">376,377,379,380,399,401,723,761,762</shopping>
+        </zone>
+        <zone code="11" name="">
+            <shopping name="">375</shopping>
+        </zone>
+        <zone code="12" name="">
+            <shopping name="">355,372,373,374</shopping>
+        </zone>
+    </floor>     
+    <floor  name = "8层" code="62" >
+        <zone code="62" name="">
+            <shopping name="">325,351,357,361,364,368</shopping>
+        </zone>
+        <zone code="63" name="">
+            <shopping name="">315,711</shopping>
+        </zone>                  
+    </floor>
+</root>
