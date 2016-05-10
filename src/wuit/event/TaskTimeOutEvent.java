@@ -7,10 +7,17 @@ package wuit.event;
 import wuit.thread.ThreadPool;
 
 /**
+ * 工作任务超时的事件
+ * 
+ * @author weiyunyun 2016.5.10
  *
- * @author lxl
  */
 public class TaskTimeOutEvent {
+	/**
+	 * 单例获取线程池
+	 */
+	ThreadPool pool=ThreadPool.getInstance();   
+	
     private AbstractEvent event;   
     public TaskTimeOutEvent(AbstractEvent event){   
         this.event=event;   
@@ -18,8 +25,6 @@ public class TaskTimeOutEvent {
   
   
     public  void execute() {   
-        // TODO Auto-generated method stub   
-        ThreadPool pool=ThreadPool.getInstance();   
         pool.addWorkThread();   
         pool.removeWorkThread(event.workthread);   
         Object obj=event.workthread.getThreadKey();   

@@ -5,8 +5,10 @@
 package wuit.event;
 
 /**
+ * 类描述：任务运行时间
  * 
- * @author lxl
+ * @author weiyunyun 2016.5.10
+ *
  */
 public class TaskRunTime {
 	private long begintime;

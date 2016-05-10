@@ -9,8 +9,10 @@ import wuit.event.BeginTaskEvent;
 import wuit.event.EndTaskEvent;
 
 /**
+ * 类描述：线程池
+ * 
+ * @author weiyunyun 2015.5.10
  *
- * @author lxl
  */
 public class ThreadPool {
     private int threadcount;   

@@ -11,8 +11,9 @@ import wuit.event.TaskRunTime;
 import wuit.event.TaskTimeOutEvent;
 
 /**
+ * @description：任务超时线程
+ * @author weiyunyun
  *
- * @author lxl
  */
 public class TaskTimeOutThread extends Thread{
     private ThreadPool pool;   
@@ -29,7 +30,7 @@ public class TaskTimeOutThread extends Thread{
             while(!shutdown){   
                 synchronized(taskruntimelist){   
                     for(int i=0;i<taskruntimelist.size();i++){   
-                        TaskRunTime t=(TaskRunTime) taskruntimelist.get(i);   
+                        TaskRunTime t = taskruntimelist.get(i);   
                         if (t.checkRunTimeOut(TaskOutTime)){   
                             taskruntimelist.remove(i);   
                             new TaskTimeOutEvent(t.getEvent()).execute();   
