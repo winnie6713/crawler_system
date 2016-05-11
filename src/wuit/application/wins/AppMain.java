@@ -4,21 +4,19 @@
  */
 package wuit.application.wins;
 
-import java.awt.Color;
 import java.awt.Dialog;
-import java.awt.Dimension;
 import java.awt.Font;
-import java.awt.Toolkit;
 import java.util.List;
 import java.util.Vector;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javax.swing.JFileChooser;
+
 import javax.swing.table.DefaultTableModel;
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeModel;
 import javax.swing.tree.TreeModel;
 import javax.swing.tree.TreePath;
+
 import wuit.common.crawler.composite.DSComposite;
 import wuit.common.crawler.composite.DSExtractor;
 import wuit.common.doc.xml.ParseWorkConfigXml;
@@ -26,12 +24,18 @@ import wuit.crawler.DSCrawlerParam;
 import wuit.crawler.main.MainServer;
 
 /**
+ * 类描述:主程序入口
+ * @author weiyunyun
  *
- * @author lxl
  */
 public class AppMain extends javax.swing.JFrame {
 
     /**
+	 * 
+	 */
+	private static final long serialVersionUID = -8235308550077365800L;
+
+	/**
      * Creates new form AppMain
      */
     public AppMain() {

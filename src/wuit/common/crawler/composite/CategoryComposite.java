@@ -59,8 +59,8 @@ public class CategoryComposite extends Thread {
     
     public synchronized void saveItems(){
         String key ="";
-        Set set = mapItems.entrySet();
-        Iterator it = set.iterator();
+        Set<?> set = mapItems.entrySet();
+        Iterator<?> it = set.iterator();
         while(it.hasNext()){
             Map.Entry<String,Map<String,String>> body = (Map.Entry<String,Map<String,String>>)it.next();
             if (body.getValue().size()>itemMax){

@@ -15,21 +15,19 @@ import wuit.common.crawler.db.KeyValueSort;
 import wuit.common.dictionary.AddressService;
 import wuit.common.dictionary.BaseAddress;
 
-/*
- * 该类是从每条记录信息中，结合地址字典分拣出详细信息
+/**
+ * @description 该类是从每条记录信息中，结合地址字典分拣出详细信息
+ * @author weiyunyun
+ *
  */
 public class CompositeParse {
-    CompositeConvert convert = new CompositeConvert();
-    //private DSCompositeMapXml mapComposite;
-    static AddressService addressDict = new AddressService();
-    List<String> filterName = new ArrayList<String>();
+	private	CompositeConvert convert = new CompositeConvert();
+    
+    private static AddressService addressDict = new AddressService(); 
+    
+    private List<String> filterName = new ArrayList<String>();
         
-//    ServiceAddress srvAddress ;
-    
-    
     public CompositeParse(){
-//        srvAddress = new ServiceAddress();
-//        mapComposite = new DSCompositeMapXml();
         
         filterName.add("公交");
         filterName.add("去看看");

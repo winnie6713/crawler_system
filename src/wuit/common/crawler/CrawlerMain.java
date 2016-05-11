@@ -6,9 +6,9 @@
 
 package wuit.common.crawler;
 
-import wuit.crawler.CrawlerParams;
 import java.util.ArrayList;
 import java.util.List;
+
 import wuit.common.crawler.composite.DSExtractor;
 
 /**
